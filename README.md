@@ -17,4 +17,4 @@ The logged console error messages are written to a local file
 
 Each test run will create a new file in the project directory as below -
 
-PLAYWRIGHT-CONSOLE-LOGS/error-reports-yyyy-mm-dd/errors-{timestamp}.txt
+Playwright-console-logs/error-reports-yyyy-mm-dd/errors-{timestamp}.txt
