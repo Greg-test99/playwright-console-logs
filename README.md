@@ -9,12 +9,12 @@ The logged console error messages are written to a local file
 
 ### Set up
 
-install playwright
-npm install -D @playwright/test
+- npm install
 
 ### Executing program
 
-npx playwright test
+- npx playwright test
 
-Each test run will create a new file in the project directory as below
-image.png
+Each test run will create a new file in the project directory as below -
+
+PLAYWRIGHT-CONSOLE-LOGS/error-reports-yyyy-mm-dd/errors-{timestamp}.txt
