@@ -12,6 +12,8 @@ day.
 
 - npm install
 
+- npx playwright install
+
 ### Executing program
 
 - npx playwright test
