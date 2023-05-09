@@ -1,0 +1,21 @@
+{
+  "name": "playwright-console-logs",
+  "version": "1.0.0",
+  "description": "Using Playwright to capture the errors logged to console when landing on a test page",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greg-test99/playwright-console-logs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greg-test99/playwright-console-logs/issues"
+  },
+  "homepage": "https://github.com/Greg-test99/playwright-console-logs#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
+}
