@@ -11,7 +11,7 @@ try {
     fs.mkdirSync(folderName);
   }
 } catch (err) {
-  console.error(err);
+  console.log(err);
 }
 
 const writeLogs = function (msg) {
