@@ -5,7 +5,8 @@ Using Playwright to capture the errors logged to console when landing on a test 
 ## Description
 
 Example of a test that uses playwright to capture console log errors that occur when navigating to a test URL.
-The logged console error messages are written to a local file
+The logged console error messages are written to a file in the project directory in a folder for the current
+day.
 
 ### Set up
 
